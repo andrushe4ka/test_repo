@@ -3,7 +3,7 @@ def say(phrase):
   print(phrase)
   
 def func():
-  pass
+  print('Hi')
 
 print('Hello')
 print('It is me')
