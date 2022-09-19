@@ -5,4 +5,5 @@ def say(phrase):
 print('Hello')
 print('It is me')
 print('Have a nice day')
+say('Good bye')
 sys.exit()
