@@ -1,6 +1,9 @@
 import sys
 def say(phrase):
   print(phrase)
+  
+def func():
+  pass
 
 print('Hello')
 print('It is me')
